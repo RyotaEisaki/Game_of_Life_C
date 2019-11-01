@@ -45,9 +45,9 @@ The initial pattern constitutes the seed of the system. The first generation is 
 
 　[入力](https://github.com/RyotaEisaki/Game_of_Life_C/blob/master/ex_input1)は次のような形をしている。
 ```
-10
-10
-O . . . . . . . O O
+10 //盤面の縦の長さ
+10 //盤面の横の長さ
+O . . . . . . . O O //第一世代のセルの情報
 . O . . . . . . O O
 . . O . . . . . . .
 . . . O . . . . . .
@@ -57,6 +57,6 @@ O . . . . . . . O O
 O O O O O O O O . .
 . . . . . . . . O .
 . . . . . . . . . O
-5
+5 //世代数
 ```
 
