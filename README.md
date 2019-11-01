@@ -44,6 +44,7 @@ The initial pattern constitutes the seed of the system. The first generation is 
 ## Input
 
 　[入力](https://github.com/RyotaEisaki/Game_of_Life_C/blob/master/ex_input1)は次のような形をしている。
+```
 10
 10
 O . . . . . . . O O
@@ -57,4 +58,5 @@ O O O O O O O O . .
 . . . . . . . . O .
 . . . . . . . . . O
 5
+```
 
