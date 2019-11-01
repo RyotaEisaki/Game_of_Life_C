@@ -40,3 +40,6 @@ The initial pattern constitutes the seed of the system. The first generation is 
 
 ## Source Code
 [Click Here](https://github.com/RyotaEisaki/Game_of_Life_C/blob/master/game_of_life.c)
+
+## Input
+ 入力は次のような形をしている。
