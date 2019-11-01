@@ -20,14 +20,13 @@ The game is a zero-player game, meaning that its evolution is determined by its 
 
 セルの生死は次のルールに従う。
 
-**誕生**
-    死んでいるセルに隣接する生きたセルがちょうど3つあれば、次の世代が誕生する。
-**生存**
-    生きているセルに隣接する生きたセルが2つか3つならば、次の世代でも生存する。
-**過疎**
-    生きているセルに隣接する生きたセルが1つ以下ならば、過疎により死滅する。
-**過密**
-    生きているセルに隣接する生きたセルが4つ以上ならば、過密により死滅する。
+* **[誕生] 死んでいるセルに隣接する生きたセルがちょうど3つあれば、次の世代が誕生する。**
+    
+* **[生存] 生きているセルに隣接する生きたセルが2つか3つならば、次の世代でも生存する。**
+
+* **[過疎] 生きているセルに隣接する生きたセルが1つ以下ならば、過疎により死滅する。**
+
+* **[過密] 生きているセルに隣接する生きたセルが4つ以上ならば、過密により死滅する。**
     
 
  The universe of the Game of Life is an infinite, two-dimensional orthogonal grid of square cells, each of which is in one of two possible states, alive or dead, (or populated and unpopulated, respectively). Every cell interacts with its eight neighbours, which are the cells that are horizontally, vertically, or diagonally adjacent. At each step in time, the following transitions occur:
