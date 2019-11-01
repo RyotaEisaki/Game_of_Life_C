@@ -59,4 +59,5 @@ O O O O O O O O . .
 . . . . . . . . . O
 5 //世代数
 ```
-
+## Output
+[出力](https://github.com/RyotaEisaki/Game_of_Life_C/blob/master/ex_output1)は次のようになる。
