@@ -60,4 +60,86 @@ O O O O O O O O . .
 5 //世代数
 ```
 ## Output
-[出力](https://github.com/RyotaEisaki/Game_of_Life_C/blob/master/ex_output1)は次のようになる。
+
+　[出力](https://github.com/RyotaEisaki/Game_of_Life_C/blob/master/ex_output1)は次のようになる。
+
+```
+1th generation
+
+O.......OO
+.O......OO
+..O.......
+...O......
+...OO.....
+..OOOO....
+.OOOOOO...
+OOOOOOOO..
+........O.
+.........O
+
+--------------------------
+
+
+2th generation
+
+........OO
+.O......OO
+..O.......
+..OOO.....
+.....O....
+.O....O...
+O......O..
+O......O..
+.OOOOOOOO.
+..........
+
+--------------------------
+
+
+3th generation
+
+........OO
+........OO
+.OO.......
+..OOO.....
+..OOOO....
+......O...
+OO....OO..
+O.OOOO....
+.OOOOOOOO.
+..OOOOOO..
+
+--------------------------
+
+
+4th generation
+
+........OO
+........OO
+.OO.......
+.....O....
+..O..O....
+.OOOO.OO..
+OOOOO.OO..
+O.......O.
+........O.
+.O......O.
+
+--------------------------
+
+
+5th generation
+
+........OO
+........OO
+..........
+.OO.......
+.OO..O....
+O......O..
+O...O.O.O.
+O.OO....O.
+.......OOO
+..........
+
+--------------------------
+```
