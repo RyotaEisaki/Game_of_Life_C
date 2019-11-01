@@ -37,3 +37,6 @@ The game is a zero-player game, meaning that its evolution is determined by its 
 * **Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.**
 
 The initial pattern constitutes the seed of the system. The first generation is created by applying the above rules simultaneously to every cell in the seed; births and deaths occur simultaneously, and the discrete moment at which this happens is sometimes called a tick. Each generation is a pure function of the preceding one. The rules continue to be applied repeatedly to create further generations. 
+
+## Source Code
+[Click Here](https://github.com/RyotaEisaki/Game_of_Life_C/blob/master/game_of_life.c)
